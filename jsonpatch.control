@@ -1,0 +1,7 @@
+# jsonpatch extension
+comment = 'Functions and types for json patch'
+default_version = '0.1'
+module_pathname = '$libdir/jsonpatch'
+relocatable = false
+schema = pg_catalog
+superuser = false
